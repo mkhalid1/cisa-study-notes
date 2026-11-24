@@ -140,7 +140,7 @@ As guidance, Domain 3 items take 60 to 80 seconds. Control-type questions (which
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from ISACA or any prep provider.
+These 4 items are original, written for these notes. They are not taken from ISACA or any prep provider.
 
 ### Set 1
 
@@ -151,135 +151,51 @@ These 12 items are original, written for these notes. They are not taken from IS
 - C. The final project cost against the original vendor quotation only
 - D. The number of features delivered against the original wish list
 
-**Item 2.** A project is behind schedule. The sponsor asks which tasks should receive extra resources to bring the end date forward. Which tasks should they be?
-
-- A. Tasks with the most slack in the schedule
-- B. Tasks on the critical path
-- C. The tasks with the lowest cost
-- D. The tasks scheduled to start first
-
-**Item 3.** Clerks often swap two digits when keying customer account numbers. Which input control would detect this BEST?
-
-- A. A range check
-- B. A limit check
-- C. A check digit
-- D. A reasonableness check
-
-**Item 4.** Customer records are being migrated from an old billing system to a new one. Which is the BEST evidence that the data was converted completely and accurately?
+**Item 2.** Customer records are being migrated from an old billing system to a new one. Which is the BEST evidence that the data was converted completely and accurately?
 
 - A. The vendor's statement that the migration tool is reliable
 - B. Users' comments that the new screens look correct
 - C. The project manager's formal sign-off confirming that the migration finished on time and within budget
 - D. Reconciliation of record counts and control totals between the old and new systems
 
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: A.** A post-implementation review checks whether the system delivers the benefits that justified it, so the approved business case is the yardstick. *Why not C:* the vendor quote is only part of the cost and says nothing about benefits. *Why not D:* a wish list is not the approved scope or the measure of value.
-
-**Item 2: B.** The critical path is the longest chain of dependent tasks. Only shortening it can bring the end date forward. *Why not A:* tasks with slack can slip without affecting the end date, so speeding them up gains nothing. *Why not D:* early tasks are not necessarily on the critical path.
-
-**Item 3: C.** A check digit is calculated from the other digits, so swapped or mistyped digits produce a mismatch. *Why not A:* a range check confirms a value falls between limits, and a transposed account number may still fall in range. *Why not D:* a reasonableness check tests whether a value is plausible, not whether a code was keyed correctly.
-
-**Item 4: D.** Counts and control totals reconciled between source and target are direct evidence of completeness and accuracy. *Why not B:* screens that look right do not show that every record arrived with correct values. *Why not C:* finishing on time says nothing about data quality.
-
-</details>
-
-### Set 2
-
-**Item 5.** A bank is replacing its core payments system. All branches share one ledger, so the system cannot be switched over branch by branch or module by module. A failure at go-live would be severe, and the bank can afford extra effort to reduce that risk. Which changeover method fits BEST?
+**Item 3.** A bank is replacing its core payments system. All branches share one ledger, so the system cannot be switched over branch by branch or module by module. A failure at go-live would be severe, and the bank can afford extra effort to reduce that risk. Which changeover method fits BEST?
 
 - A. Direct cutover over a weekend
 - B. Phased replacement by module over several months, starting with the least critical functions
 - C. Pilot at one branch
 - D. Parallel running of old and new systems with comparison of results
 
-**Item 6.** Which testing BEST confirms that a new system meets the business's requirements before go-live?
-
-- A. User acceptance testing
-- B. Unit testing
-- C. Stress testing
-- D. Regression testing
-
-**Item 7.** An IS auditor is invited to join the project team for a new ERP system. Which role BEST preserves the auditor's independence?
-
-- A. Designing the user access matrix for the new system
-- B. Advising on control requirements and reviewing the design, while leaving decisions to management
-- C. Approving the go-live decision on behalf of internal audit
-- D. Writing and executing the user acceptance test scripts so that testing reflects audit's view of the controls
-
-**Item 8.** A company buys a critical, customised system from a small vendor. The company is worried about being unable to maintain the software if the vendor goes out of business. Which arrangement addresses this BEST?
-
-- A. A service level agreement with penalties for downtime
-- B. A non-disclosure agreement covering the company's data
-- C. A source code escrow agreement
-- D. A licence audit clause
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: D.** Parallel running keeps the old system live while results are compared, so problems are found without disrupting payments. It costs more but gives the most assurance. *Why not C:* a pilot needs part of the organisation to go live on its own, which a single shared ledger rules out. *Why not B:* phasing by module is ruled out for the same reason. *Why not A:* a direct cutover has no fallback at all.
-
-**Item 6: A.** UAT is where users confirm the system does what the business needs, and they sign off. *Why not D:* regression testing checks that changes did not break existing functions, not that the system meets business needs. *Why not B:* unit tests check individual modules against the technical specification.
-
-**Item 7: B.** The auditor can advise and review while management keeps the decisions, which preserves independence. *Why not A:* designing the access matrix is a management control decision the auditor would later have to audit. *Why not C:* approving go-live is a management decision.
-
-**Item 8: C.** Escrow places the source code with a third party, to be released to the company under agreed conditions such as vendor failure. *Why not A:* an SLA is worthless if the vendor no longer exists. *Why not D:* a licence audit clause lets the vendor check the company's usage; it does not protect the company.
-
-</details>
-
-### Set 3
-
-**Item 9.** An IS auditor reviews emergency changes made to production during a system's first month. Which finding is the GREATEST concern?
+**Item 4.** An IS auditor reviews emergency changes made to production during a system's first month. Which finding is the GREATEST concern?
 
 - A. Emergency changes were not reviewed and approved after they were made
 - B. Most emergency changes were made outside business hours
 - C. Emergency changes were made only by a small group of named, authorised support staff on the on-call rota
 - D. A log is kept of every emergency change
 
-**Item 10.** After a fix to the invoicing module, the team re-runs a suite of earlier tests to make sure other functions still work. What is this?
-
-- A. Unit testing
-- B. User acceptance testing
-- C. Pilot testing
-- D. Regression testing
-
-**Item 11.** When is a post-implementation review usually MOST effective?
-
-- A. During system design
-- B. On the day of go-live, while the project team is still together
-- C. Once the system has stabilised and its benefits can be measured
-- D. Before user acceptance testing
-
-**Item 12.** Which control BEST detects that transactions were lost between batch entry and the master file update?
-
-- A. Password controls and session timeouts on the data entry screens used by clerks
-- B. Comparing batch control totals before and after processing
-- C. A check digit on customer numbers
-- D. A distribution list for output reports
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 4</summary>
 
-**Item 9: A.** Emergency changes skip some steps before implementation, so retrospective review and approval is the control that keeps them accountable. Without it, unauthorised changes can go unnoticed. *Why not B:* working outside hours is normal for emergency fixes. *Why not C:* changes made by authorised staff are what you want to see.
+**Item 1: A.** A post-implementation review checks whether the system delivers the benefits that justified it, so the approved business case is the yardstick. *Why not C:* the vendor quote is only part of the cost and says nothing about benefits. *Why not D:* a wish list is not the approved scope or the measure of value.
 
-**Item 10: D.** Re-running earlier tests to check that a change did not break existing functions is regression testing. *Why not A:* unit testing checks a single module, usually the changed one, rather than re-checking the rest. *Why not B:* UAT is the users' check that business requirements are met.
+**Item 2: D.** Counts and control totals reconciled between source and target are direct evidence of completeness and accuracy. *Why not B:* screens that look right do not show that every record arrived with correct values. *Why not C:* finishing on time says nothing about data quality.
 
-**Item 11: C.** Benefits and control effectiveness can only be measured once the system is in steady use. *Why not B:* on go-live day there is no performance data yet. *Why not A:* a review during design is a design review, not a post-implementation review.
+**Item 3: D.** Parallel running keeps the old system live while results are compared, so problems are found without disrupting payments. It costs more but gives the most assurance. *Why not C:* a pilot needs part of the organisation to go live on its own, which a single shared ledger rules out. *Why not B:* phasing by module is ruled out for the same reason. *Why not A:* a direct cutover has no fallback at all.
 
-**Item 12: B.** Batch control totals, such as record counts and amount totals, compared before and after processing reveal lost or added transactions. *Why not C:* a check digit catches keying errors in a field, not missing records. *Why not D:* a distribution list controls who receives output, after processing.
+**Item 4: A.** Emergency changes skip some steps before implementation, so retrospective review and approval is the control that keeps them accountable. Without it, unauthorised changes can go unnoticed. *Why not B:* working outside hours is normal for emergency fixes. *Why not C:* changes made by authorised staff are what you want to see.
 
 </details>
 
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | D | D | A | B | C | A | D | C | B |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | A | D | D | A |
 
-- **11 to 12:** strong. Domain 3 is the smallest, so move your time to Domains 4 and 5.
-- **8 to 10:** check whether misses were about controls and tests (learn the tables) or the auditor's role.
-- **7 or fewer:** reread the application controls, testing and changeover tables, then redo the items.
+- **4:** strong. Domain 3 is the smallest, so move your time to Domains 4 and 5.
+- **3:** check whether misses were about controls and tests (learn the tables) or the auditor's role.
+- **2 or fewer:** reread the application controls, testing and changeover tables, then redo the items.
 
 ## Next step
 

@@ -125,7 +125,7 @@ As guidance, governance items take 70 to 90 seconds because several options ofte
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from ISACA or any prep provider.
+These 4 items are original, written for these notes. They are not taken from ISACA or any prep provider.
 
 ### Set 1
 
@@ -136,135 +136,51 @@ These 12 items are original, written for these notes. They are not taken from IS
 - C. The plan covers a three-year period and is refreshed every year
 - D. The plan was drafted by the CIO with input from IT department heads
 
-**Item 2.** Which body typically prioritises and approves individual IT projects so that they reflect business priorities, and monitors their delivery?
-
-- A. The IT strategy committee of the board
-- B. The IT steering committee
-- C. The change advisory board
-- D. The information security team
-
-**Item 3.** Which finding about access in a finance system is the GREATEST concern for segregation of duties?
-
-- A. Users in the finance team can view their own team's reports
-- B. The database administrator reviews database error logs every week and records the results in a ticket
-- C. Developers can move their own code changes into production without independent review
-- D. The help desk can reset user passwords after verifying identity
-
-**Item 4.** A small company has only two IT staff, and both need administrator access to every system. Duties cannot be separated. What is the BEST compensating control?
+**Item 2.** A small company has only two IT staff, and both need administrator access to every system. Duties cannot be separated. What is the BEST compensating control?
 
 - A. Requiring both staff to take a security course every year
 - B. Removing administrator access from one of the two staff and having the other do all administration
 - C. Asking both staff to sign the acceptable use policy each year
 - D. Independent review by a manager of logs of administrator activity
 
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: A.** The purpose of an IT strategy is to support the business. A plan that does not refer to business objectives cannot show alignment. *Why not D:* drafting by IT is normal; the concern would be if the business did not review and approve it, and the plan's lack of business objectives is the bigger problem. *Why not B:* readability matters, but it is a presentation issue.
-
-**Item 2: B.** The IT steering committee, made up of executives from the business and IT, prioritises and monitors IT investments and projects. *Why not A:* the IT strategy committee works at board level, advising on strategy rather than approving individual projects. *Why not C:* the change advisory board reviews changes, not investments.
-
-**Item 3: C.** Developers moving their own code into production can introduce unauthorised or untested changes with no one else involved. That breaks a key segregation. *Why not D:* password resets after identity verification are a normal help desk task. *Why not B:* reviewing error logs is part of the DBA's job.
-
-**Item 4: D.** When duties cannot be separated, independent review of what privileged users actually did is the standard compensating control. *Why not B:* removing access would leave the company unable to operate. *Why not A:* training helps awareness but does not detect misuse.
-
-</details>
-
-### Set 2
-
-**Item 5.** A company is outsourcing payroll processing to a cloud provider. From the auditor's point of view, which contract term is MOST important?
+**Item 3.** A company is outsourcing payroll processing to a cloud provider. From the auditor's point of view, which contract term is MOST important?
 
 - A. A right to audit, or a commitment to supply current independent assurance reports
 - B. A discount for paying the annual fee in advance
 - C. The provider's right to use the company's logo in marketing
 - D. Free training sessions for the payroll team whenever the provider releases a new version of the service
 
-**Item 6.** The board states that it will pursue new markets but will not accept more than a moderate level of risk to customer data. What is this statement?
-
-- A. A statement of risk appetite
-- B. A measure of residual risk
-- C. A measure of inherent risk
-- D. A risk register entry
-
-**Item 7.** The CIO wants to report IT's contribution using financial results, user satisfaction, internal process efficiency and staff development. Which tool fits?
-
-- A. A Gantt chart
-- B. A risk register
-- C. A RACI chart
-- D. A balanced scorecard
-
-**Item 8.** Which finding about the information security policy is the GREATEST concern?
-
-- A. It is twenty pages long
-- B. It has never been approved by senior management
-- C. It was adapted from an industry template published by a professional body
-- D. It was last reviewed eleven months ago
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: A.** Without a right to audit or independent assurance reports, the company cannot obtain evidence that the provider's controls work, yet it remains accountable for the payroll data. *Why not B:* payment terms are commercial, not a control concern. *Why not D:* training is helpful but does not provide assurance over the provider's controls.
-
-**Item 6: A.** The overall amount and type of risk the board is willing to accept in pursuing its objectives is its risk appetite. *Why not B:* residual risk is what remains after controls, a measurement rather than a statement of willingness. *Why not D:* a register entry records a specific risk, not the board's overall stance.
-
-**Item 7: D.** A balanced scorecard measures performance across financial, customer, internal process and learning and growth perspectives. *Why not A:* a Gantt chart shows project schedules. *Why not C:* a RACI chart shows who is responsible, accountable, consulted and informed.
-
-**Item 8: B.** A policy without senior management approval has no authority, so staff can ignore it without consequence. *Why not D:* an annual review cycle is common, so eleven months is not a concern. *Why not C:* adapting a template is fine if it is tailored and approved.
-
-</details>
-
-### Set 3
-
-**Item 9.** An organisation relies on a service provider's independent assurance report for its hosted HR system. What should the IS auditor check FIRST?
-
-- A. That the provider's security and operations staff hold recognised professional certifications
-- B. That the report is written in plain language
-- C. That the report's scope covers the services used and its period is current
-- D. That the provider has been in business for more than five years
-
-**Item 10.** A new customer relationship system collects customers' national identity numbers, although no business process uses them. What should the IS auditor recommend?
+**Item 4.** A new customer relationship system collects customers' national identity numbers, although no business process uses them. What should the IS auditor recommend?
 
 - A. Encrypt the identity numbers in the database
 - B. Restrict access to the identity numbers to a small group of managers and log every time they are viewed
 - C. Mask the identity numbers on screen
 - D. Stop collecting the numbers and remove those already stored, in line with data minimisation
 
-**Item 11.** Who should be responsible for classifying the data held in a sales system?
-
-- A. The IS auditor
-- B. The business owner of the sales data
-- C. The database administrator
-- D. The security administrator
-
-**Item 12.** Which finding in the leavers process is the GREATEST concern?
-
-- A. Exit interviews are held in about half of departures
-- B. Leavers return their laptops and badges within a week of leaving rather than on their final day of work
-- C. Accounts of several leavers stayed active for weeks, and one was used after the person left
-- D. Leavers receive a reminder of their confidentiality obligations by post
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 4</summary>
 
-**Item 9: C.** A report is only useful if it covers the services you rely on and a recent period. If it does not, it gives no assurance about your system. *Why not A:* staff certifications say little about whether the specific controls worked. *Why not D:* time in business is a vendor selection factor, not evidence about controls.
+**Item 1: A.** The purpose of an IT strategy is to support the business. A plan that does not refer to business objectives cannot show alignment. *Why not D:* drafting by IT is normal; the concern would be if the business did not review and approve it, and the plan's lack of business objectives is the bigger problem. *Why not B:* readability matters, but it is a presentation issue.
 
-**Item 10: D.** Data that no process needs should not be collected. Removing it eliminates the risk rather than reducing it. *Why not A:* encryption protects the data but keeps an unnecessary risk. *Why not C:* masking on screen still leaves the numbers stored.
+**Item 2: D.** When duties cannot be separated, independent review of what privileged users actually did is the standard compensating control. *Why not B:* removing access would leave the company unable to operate. *Why not A:* training helps awareness but does not detect misuse.
 
-**Item 11: B.** The data owner, a business manager accountable for the data, classifies it. *Why not C:* the DBA is a custodian who implements the owner's decisions. *Why not A:* the auditor evaluates the classification process and must not make management decisions.
+**Item 3: A.** Without a right to audit or independent assurance reports, the company cannot obtain evidence that the provider's controls work, yet it remains accountable for the payroll data. *Why not B:* payment terms are commercial, not a control concern. *Why not D:* training is helpful but does not provide assurance over the provider's controls.
 
-**Item 12: C.** Active accounts after departure, one of them actually used, show the core control has failed and may already have been exploited. *Why not B:* a late laptop return is a weakness, but less serious than live access being used. *Why not A:* exit interviews are useful but not a key control.
+**Item 4: D.** Data that no process needs should not be collected. Removing it eliminates the risk rather than reducing it. *Why not A:* encryption protects the data but keeps an unnecessary risk. *Why not C:* masking on screen still leaves the numbers stored.
 
 </details>
 
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | D | A | A | D | B | C | D | B | C |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | A | D | A | D |
 
-- **11 to 12:** strong governance instincts. Move on to Domains 4 and 5, which carry the most weight.
-- **8 to 10:** list which "who decides" questions you missed and redo the committees and roles table.
-- **7 or fewer:** reread Key concepts, focusing on governance versus management, risk terms and vendor contracts, then redo the items.
+- **4:** strong governance instincts. Move on to Domains 4 and 5, which carry the most weight.
+- **3:** list which "who decides" questions you missed and redo the committees and roles table.
+- **2 or fewer:** reread Key concepts, focusing on governance versus management, risk terms and vendor contracts, then redo the items.
 
 ## Next step
 

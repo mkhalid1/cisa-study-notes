@@ -168,75 +168,32 @@ As guidance, 70 to 90 seconds for scenario items here, and 45 to 60 for recall i
 
 ## Practice items
 
-These 16 items are original, written for these notes. They are not taken from ISACA or any prep provider.
+These 4 items are original, written for these notes. They are not taken from ISACA or any prep provider.
 
 ### Set 1
 
-**Item 1.** What is the main goal of incident management?
-
-- A. Restore normal service as quickly as possible
-- B. Identify the root cause of every outage before service is restored
-- C. Record every change made to production systems
-- D. Measure the IT department's performance against its budget
-
-**Item 2.** The same database outage has happened on the first business day of each of the last four months. Each time, service was restored by restarting the server. Which process should now address this?
+**Item 1.** The same database outage has happened on the first business day of each of the last four months. Each time, service was restored by restarting the server. Which process should now address this?
 
 - A. Incident management
 - B. Problem management
 - C. Capacity management
 - D. Service level management
 
-**Item 3.** Which is the FIRST input for deciding the recovery priorities in a business continuity plan?
-
-- A. The list of servers in the data centre
-- B. The IT budget for disaster recovery
-- C. The business impact analysis
-- D. The vendor's recommended recovery order
-
-**Item 4.** A trading database has a recovery point objective of 15 minutes. Which arrangement meets it?
+**Item 2.** A trading database has a recovery point objective of 15 minutes. Which arrangement meets it?
 
 - A. A full backup every night, stored offsite
 - B. A weekly full backup with daily incremental backups
 - C. Near-real-time replication to a secondary site
 - D. A monthly backup copied to tape
 
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: A.** Incident management aims to restore service as fast as possible and limit business impact. *Why not B:* finding root causes is problem management, and waiting for it would prolong outages. *Why not C:* recording changes belongs to change management.
-
-**Item 2: B.** Recurring incidents point to an underlying problem. Problem management investigates the root cause and drives a permanent fix. *Why not A:* incident management has already restored service each time, which is why the outage keeps returning. *Why not C:* capacity might turn out to be the cause, but investigating the cause is problem management's job.
-
-**Item 3: C.** The BIA identifies critical processes, the impact of losing them and their recovery targets, which set the priorities. *Why not A:* a server list shows what exists, not what matters most to the business. *Why not D:* a vendor does not know the business's priorities.
-
-**Item 4: C.** An RPO of 15 minutes allows no more than 15 minutes of data loss, so data must be copied continuously or nearly so. *Why not A:* a nightly backup could lose up to a day of trades. *Why not B:* daily incrementals still allow up to a day of loss.
-
-</details>
-
-### Set 2
-
-**Item 5.** Backup jobs report success every night. What is the BEST evidence that data can be recovered?
+**Item 3.** Backup jobs report success every night. What is the BEST evidence that data can be recovered?
 
 - A. The backup software's nightly job logs
 - B. The backup policy approved by the CIO
 - C. The backup vendor's certificate that the software is compatible with the servers
 - D. Records of regular test restores of production data
 
-**Item 6.** Which backup finding is the GREATEST concern?
-
-- A. All backup copies are kept in a cabinet in the same building as the data centre
-- B. The backup software is one version behind the latest release
-- C. Backup logs are reviewed weekly rather than daily
-- D. Backup copies are encrypted, and the keys are held by the IT security team rather than the backup operators
-
-**Item 7.** Management wants a continuity test that shows the recovery site can process transactions, without any interruption to production. Which test fits?
-
-- A. Full interruption test
-- B. Parallel test
-- C. Checklist review
-- D. Structured walkthrough
-
-**Item 8.** An IS auditor reviewing change management finds several changes in production with no record of approval. What should the auditor do?
+**Item 4.** An IS auditor reviewing change management finds several changes in production with no record of approval. What should the auditor do?
 
 - A. Reverse the changes until they can be approved
 - B. Approve the changes retrospectively on management's behalf so that the change records are complete
@@ -244,113 +201,29 @@ These 16 items are original, written for these notes. They are not taken from IS
 - D. Determine the extent and impact of the unapproved changes and report the finding
 
 <details>
-<summary>Answers and explanations, items 5 to 8</summary>
+<summary>Answers and explanations, items 1 to 4</summary>
 
-**Item 5: D.** Only a restore proves that backups are complete and usable. *Why not A:* a success message shows the job ran, not that the data can be restored. *Why not B:* a policy shows intent, not operation.
+**Item 1: B.** Recurring incidents point to an underlying problem. Problem management investigates the root cause and drives a permanent fix. *Why not A:* incident management has already restored service each time, which is why the outage keeps returning. *Why not C:* capacity might turn out to be the cause, but investigating the cause is problem management's job.
 
-**Item 6: A.** Backups in the same building can be lost in the same fire, flood or attack as the systems they protect, which defeats their purpose. *Why not B:* a slightly older software version is a minor issue. *Why not D:* encryption with controlled keys is good practice.
+**Item 2: C.** An RPO of 15 minutes allows no more than 15 minutes of data loss, so data must be copied continuously or nearly so. *Why not A:* a nightly backup could lose up to a day of trades. *Why not B:* daily incrementals still allow up to a day of loss.
 
-**Item 7: B.** A parallel test brings up the recovery site and tests processing while production continues. *Why not A:* a full interruption shuts down production, which management has ruled out. *Why not D:* a walkthrough is a discussion and does not show the site can process anything.
+**Item 3: D.** Only a restore proves that backups are complete and usable. *Why not A:* a success message shows the job ran, not that the data can be restored. *Why not B:* a policy shows intent, not operation.
 
-**Item 8: D.** The auditor assesses how widespread the problem is and its impact, then reports it so management can act. *Why not A:* reversing changes is a management action and could cause outages. *Why not B:* approving changes is management's responsibility, and doing it would impair independence.
-
-</details>
-
-### Set 3
-
-**Item 9.** Which measure BEST shows whether patch management is effective?
-
-- A. The total number of patches the vendors released this year for systems the company uses
-- B. The size of the patch management team
-- C. The percentage of critical patches applied within the agreed time
-- D. The number of servers in the inventory
-
-**Item 10.** Operators can change the parameters of scheduled production jobs at any time, without a record. What is the BEST control?
-
-- A. Changes to job schedules and parameters approved and logged through change management
-- B. Allowing operators to change jobs only at night
-- C. Asking operators to tell their supervisor about each change verbally at the end of every shift
-- D. Running all jobs manually instead of on a schedule
-
-**Item 11.** The finance team uses a large spreadsheet to calculate figures for the monthly close. Which control is BEST?
-
-- A. Colour-coding cells so that inputs are easy to see
-- B. Protecting formulas, keeping version control and having the results independently reviewed
-- C. Saving the spreadsheet on the user's laptop for quick access, with a second copy emailed to a colleague
-- D. Letting several staff edit it at once to share the work
-
-**Item 12.** When reviewing service level agreements, what should the IS auditor check FIRST?
-
-- A. That the SLAs are written by the legal team
-- B. That the SLAs cover every system in the organisation, including test and development environments
-- C. That the SLAs include penalties paid by the business to IT
-- D. That service levels are defined in measurable terms and actually monitored and reported
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: C.** The share of critical patches applied on time measures the outcome that matters: exposure closed within the agreed window. *Why not A:* vendor release volume says nothing about the organisation's performance. *Why not B:* team size is an input, not a result.
-
-**Item 10: A.** Job schedules and parameters are production changes and should be approved and logged like any other. *Why not C:* verbal notice leaves no record and no approval. *Why not D:* manual running adds error risk and does not control changes.
-
-**Item 11: B.** Protected formulas, version control and independent review address the main EUC risks: unauthorised changes, lost history and undetected errors. *Why not A:* colour-coding helps usability but controls nothing. *Why not D:* simultaneous editing raises the risk of uncontrolled changes.
-
-**Item 12: D.** An SLA only works if its levels are measurable and performance is actually tracked and reported. Without that, there is nothing to manage. *Why not B:* SLAs are usually needed for key services, not every system. *Why not A:* who drafts the document matters less than whether service is measured.
+**Item 4: D.** The auditor assesses how widespread the problem is and its impact, then reports it so management can act. *Why not A:* reversing changes is a management action and could cause outages. *Why not B:* approving changes is management's responsibility, and doing it would impair independence.
 
 </details>
 
-### Set 4
-
-**Item 13.** A report shows orders linked to customer records that no longer exist in the database. Which control would have prevented this?
-
-- A. Database normalisation
-- B. Enforcement of referential integrity
-- C. Encryption of the customer table
-- D. Indexing of the orders table
-
-**Item 14.** Payroll sends a file to the general ledger system each month. Which control BEST ensures the transfer is complete?
-
-- A. Restricting access to the general ledger
-- B. Sending the file over an encrypted channel with access limited to the payroll team
-- C. Reconciling record counts and control totals between the two systems
-- D. Scheduling the transfer at the same time each month
-
-**Item 15.** System administrators can delete log entries on the servers they manage. What is the BEST way to protect the logs?
-
-- A. Forward logs in real time to a central log system that the administrators cannot modify
-- B. Ask all administrators to sign an annual statement that they will not delete or change log entries
-- C. Keep logs on each server for a longer period
-- D. Review the logs only when an incident is reported
-
-**Item 16.** During an audit, an IS auditor finds that the marketing team uses an unapproved cloud tool that holds customer contact data. What should the auditor do FIRST?
-
-- A. Instruct IT to block the tool at the firewall immediately
-- B. Ask the cloud provider for its security certifications and its latest independent assurance report
-- C. Recommend the tool for company-wide use, since staff like it
-- D. Assess what data is involved and the risk, and report it to management
-
-<details>
-<summary>Answers and explanations, items 13 to 16</summary>
-
-**Item 13: B.** Referential integrity stops a record being deleted while others still refer to it, or a reference being created to a record that does not exist. *Why not A:* normalisation reduces redundancy but does not by itself enforce links between tables. *Why not D:* indexing speeds up queries.
-
-**Item 14: C.** Reconciling counts and totals between the sending and receiving systems shows whether every record arrived. *Why not B:* encryption protects confidentiality in transit but does not prove completeness. *Why not D:* a regular schedule does not detect missing records.
-
-**Item 15: A.** Central logging out of the administrators' reach means they cannot alter the record of their own actions. *Why not B:* a signed statement does not prevent deletion. *Why not D:* reviewing only after incidents misses problems and still leaves logs editable.
-
-**Item 16: D.** The auditor's job is to understand the exposure and report it so management can decide. *Why not A:* blocking the tool is a management action, and doing it first could disrupt the business before the risk is understood. *Why not B:* certifications may be part of the later assessment, but they come after understanding what data and risk are involved.
-
-</details>
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | C | D | A | B | D | C | A | B | D | B | C | A | D |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | B | C | D | D |
 
-- **15 to 16:** strong. Keep this domain fresh with mixed sets; it is a quarter of the exam.
-- **11 to 14:** sort misses into operations and resilience, then drill the tables for the weaker half.
-- **10 or fewer:** rebuild the backup, site and plan test tables from memory, reread the incident versus problem distinction, then redo the items.
+- **4:** strong. Keep this domain fresh with mixed sets; it is a quarter of the exam.
+- **3:** sort misses into operations and resilience, then drill the tables for the weaker half.
+- **2 or fewer:** rebuild the backup, site and plan test tables from memory, reread the incident versus problem distinction, then redo the items.
 
 ## Next step
 

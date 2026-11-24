@@ -175,7 +175,7 @@ As guidance, 60 to 80 seconds per item. Technical recall items are quick; findin
 
 ## Practice items
 
-These 16 items are original, written for these notes. They are not taken from ISACA or any prep provider.
+These 4 items are original, written for these notes. They are not taken from ISACA or any prep provider.
 
 ### Set 1
 
@@ -186,178 +186,51 @@ These 16 items are original, written for these notes. They are not taken from IS
 - C. Users must contact the help desk to unlock their accounts after five failed login attempts in a row
 - D. Access reviews are performed every six months
 
-**Item 2.** Priya receives a digitally signed contract from Tom. Which key does Priya use to verify Tom's signature?
-
-- A. Priya's private key
-- B. Tom's public key
-- C. Tom's private key
-- D. Priya's public key
-
-**Item 3.** Tom wants to send Priya a file that only Priya can read. With which key should the file, or the session key protecting it, be encrypted?
+**Item 2.** Tom wants to send Priya a file that only Priya can read. With which key should the file, or the session key protecting it, be encrypted?
 
 - A. Tom's private key
 - B. Tom's public key
 - C. Priya's public key
 - D. Priya's private key
 
-**Item 4.** The private key behind a company's web server certificate has been stolen. What MOST directly stops browsers and partners from continuing to trust that certificate?
-
-- A. Changing the web server's administrator password
-- B. Moving the web server to a new IP address
-- C. Issuing a new certificate for the server and leaving the old one valid until its expiry date
-- D. Revoking the certificate so that its status is published through a CRL or OCSP
-
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: A.** Developers with standing, unmonitored write access to production data can change customer records without approval or trace, which breaks segregation of duties and integrity. *Why not D:* six-monthly reviews may be enough depending on risk; the developer access is a direct weakness. *Why not B:* a 90-day expiry is a normal setting.
-
-**Item 2: B.** A signature made with Tom's private key is verified with Tom's public key. *Why not C:* only Tom has his private key. *Why not A:* Priya's private key decrypts messages sent to her, not signatures from others.
-
-**Item 3: C.** Encrypting with Priya's public key means only her private key can decrypt it. *Why not A:* anything encrypted with Tom's private key can be decrypted by anyone with his public key, which gives no secrecy. *Why not D:* Tom does not have Priya's private key and should never have it.
-
-**Item 4: D.** Revocation, published through a CRL or OCSP, tells relying parties not to trust the certificate. *Why not C:* leaving the old certificate valid lets the thief impersonate the server until it expires. *Why not A:* the stolen key works regardless of the admin password.
-
-</details>
-
-### Set 2
-
-**Item 5.** Staff often hold the data centre door open for colleagues behind them. Which control BEST prevents this piggybacking?
-
-- A. A mantrap that lets only one person through at a time
-- B. A sign reminding staff not to hold the door
-- C. A CCTV camera recording the door, with footage reviewed by security each week
-- D. A visitor log at reception
-
-**Item 6.** Monitoring shows unusually low humidity in the server room. What is the MAIN risk?
-
-- A. Condensation forming on equipment
-- B. Static electricity damaging components
-- C. Faster wear of fire suppression systems
-- D. Corrosion of circuit boards
-
-**Item 7.** Where should a company's public-facing web servers be placed?
-
-- A. On the internal network with the file servers, protected by the same perimeter firewall
-- B. In a screened subnet (DMZ) between the external and internal firewalls
-- C. Directly on the internet with no firewall in front
-- D. On the same network segment as the database servers
-
-**Item 8.** An IS auditor wants to confirm that controls stop employees emailing customer card numbers outside the company. Which control should the auditor expect to test?
-
-- A. Full-disk encryption on laptops
-- B. A web application firewall
-- C. Data loss prevention at the email gateway
-- D. A network access control system
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: A.** A mantrap physically lets only one person through at a time, which prevents piggybacking. *Why not C:* CCTV records the event but does not stop it. *Why not B:* a sign depends on behaviour, which is what is failing.
-
-**Item 6: B.** Low humidity allows static to build up, which can damage electronics. *Why not A:* condensation is a risk of high humidity. *Why not D:* corrosion also comes from high humidity.
-
-**Item 7: B.** A screened subnet exposes public servers to the internet under firewall control while keeping them separate from internal systems. *Why not A:* a compromised web server on the internal network would give direct access to internal systems. *Why not C:* no firewall leaves the servers fully exposed.
-
-**Item 8: C.** DLP at the email gateway inspects outgoing messages for sensitive data such as card numbers and blocks or alerts. *Why not A:* disk encryption protects data at rest if a laptop is lost, not data being emailed. *Why not B:* a WAF protects web applications from incoming attacks.
-
-</details>
-
-### Set 3
-
-**Item 9.** A company uses a SaaS application for HR. Which responsibility remains with the company?
+**Item 3.** A company uses a SaaS application for HR. Which responsibility remains with the company?
 
 - A. Patching the application code
 - B. Securing the provider's hypervisors
 - C. Managing which users have access and what data is stored
 - D. Physical security of the provider's data centres
 
-**Item 10.** Which single control BEST reduces the impact of staff entering their passwords into phishing sites?
-
-- A. Requiring longer passwords
-- B. Changing passwords every 30 days
-- C. Annual security awareness training with a short quiz at the end
-- D. Phishing-resistant multi-factor authentication such as security keys
-
-**Item 11.** The audit committee wants to know whether an attacker could use the weaknesses in a recent scan report to reach payroll data. What should the IS auditor recommend?
+**Item 4.** The audit committee wants to know whether an attacker could use the weaknesses in a recent scan report to reach payroll data. What should the IS auditor recommend?
 
 - A. A penetration test targeting payroll data, under written authorisation
 - B. A repeat of the vulnerability scan with more plug-ins enabled and credentialed access to every server
 - C. A review of the firewall rule base only
 - D. A staff survey on security awareness
 
-**Item 12.** An incident response plan lists identification as the first step after preparation. Which step should come next?
-
-- A. Eradication
-- B. Recovery
-- C. Containment
-- D. Lessons learned
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 4</summary>
 
-**Item 9: C.** In SaaS the provider runs the application and infrastructure, but the customer still controls its users' access and its data. *Why not A:* the provider patches its own application. *Why not B:* hypervisors are part of the provider's infrastructure.
+**Item 1: A.** Developers with standing, unmonitored write access to production data can change customer records without approval or trace, which breaks segregation of duties and integrity. *Why not D:* six-monthly reviews may be enough depending on risk; the developer access is a direct weakness. *Why not B:* a 90-day expiry is a normal setting.
 
-**Item 10: D.** Phishing-resistant MFA, tied to the real site, means a stolen password alone is useless and the key will not work on a fake site. *Why not C:* training lowers how often people fall for phishing but cannot stop every case. *Why not A:* a longer password is just as easy to type into a fake page.
+**Item 2: C.** Encrypting with Priya's public key means only her private key can decrypt it. *Why not A:* anything encrypted with Tom's private key can be decrypted by anyone with his public key, which gives no secrecy. *Why not D:* Tom does not have Priya's private key and should never have it.
 
-**Item 11: A.** A penetration test shows whether weaknesses can actually be exploited to reach a target, which is what the committee asked. *Why not B:* a deeper scan still only lists weaknesses. *Why not C:* a firewall review covers one control, not whether the weaknesses can be chained together.
+**Item 3: C.** In SaaS the provider runs the application and infrastructure, but the customer still controls its users' access and its data. *Why not A:* the provider patches its own application. *Why not B:* hypervisors are part of the provider's infrastructure.
 
-**Item 12: C.** Once an incident is identified, containment stops it spreading. Eradication and recovery follow. *Why not A:* eradicating before containing lets the attack continue elsewhere. *Why not D:* lessons learned come last.
+**Item 4: A.** A penetration test shows whether weaknesses can actually be exploited to reach a target, which is what the committee asked. *Why not B:* a deeper scan still only lists weaknesses. *Why not C:* a firewall review covers one control, not whether the weaknesses can be chained together.
 
 </details>
 
-### Set 4
-
-**Item 13.** A forensic examiner copied a suspect's hard drive by connecting it directly to a workstation without any protection against writes. What is the GREATEST concern?
-
-- A. The copy may take much longer than it would with specialised forensic imaging hardware
-- B. The original drive may have been altered, weakening the evidence
-- C. The workstation may run out of storage
-- D. The examiner may need to repeat the copy later
-
-**Item 14.** An IS auditor finds wireless access points in a branch office still using WEP. Why is this the GREATEST concern among wireless settings?
-
-- A. WEP access points usually need more frequent firmware updates than newer models do
-- B. WEP reduces the range of the wireless network
-- C. WEP does not support guest networks
-- D. WEP's encryption can be broken quickly, exposing traffic and network access
-
-**Item 15.** Database administrators all log in with one shared administrator account. What is the GREATEST concern?
-
-- A. Actions cannot be traced to an individual, so accountability is lost
-- B. The account password may be hard to remember
-- C. The administrators may need to log in and out more often during the working day
-- D. The shared account uses more licences
-
-**Item 16.** Smart cameras and sensors in a factory still use their default usernames and passwords. What should the IS auditor recommend FIRST?
-
-- A. Replace every device with a newer model
-- B. Turn off all of the devices until a new, separate factory network has been designed and built
-- C. Ask the device vendor to monitor the devices
-- D. Change the default credentials and move the devices onto a separate network segment
-
-<details>
-<summary>Answers and explanations, items 13 to 16</summary>
-
-**Item 13: B.** Without a write blocker, the operating system may write to the original drive, so the evidence's integrity can be challenged. *Why not A:* speed is a convenience, not an evidential issue. *Why not D:* repeating the copy does not fix any change already made to the original.
-
-**Item 14: D.** WEP's weaknesses let attackers recover keys quickly and read traffic or join the network. *Why not B:* range is not the issue. *Why not A:* firmware frequency is minor compared with broken encryption.
-
-**Item 15: A.** With a shared account, no action can be tied to one person, which undermines accountability, investigations and segregation of duties. *Why not B:* memorability is minor. *Why not D:* licensing is a cost issue, not a control issue.
-
-**Item 16: D.** Changing defaults removes the easiest attack, and segmentation limits damage if a device is compromised. Both are quick and proportionate. *Why not A:* replacement may not be needed and takes time. *Why not B:* shutting down production equipment is disproportionate when simpler fixes exist.
-
-</details>
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | D | A | B | B | C | C | D | A | C | B | D | A | D |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | A | C | C | A |
 
-- **15 to 16:** strong. Keep the encryption and cloud rules fresh.
-- **11 to 14:** sort misses into technical controls and judgement, and drill the tables for the weaker side.
-- **10 or fewer:** rebuild the encryption, cloud and attack tables from memory, then redo the items.
+- **4:** strong. Keep the encryption and cloud rules fresh.
+- **3:** sort misses into technical controls and judgement, and drill the tables for the weaker side.
+- **2 or fewer:** rebuild the encryption, cloud and attack tables from memory, then redo the items.
 
 ## Next step
 

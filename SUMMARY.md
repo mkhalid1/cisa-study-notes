@@ -5,7 +5,7 @@
 ## Start here
 
 * [The CISA exam explained](docs/test-overview.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [5-minute diagnostic](docs/diagnostic.md)
 
 ## The five domains
 

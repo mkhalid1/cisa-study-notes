@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md)<!-- /nav:top -->
 
 # Domain 1: Information Systems Auditing Process
 
@@ -165,146 +165,62 @@ The exam gives 4 hours for 150 questions, an average of 96 seconds each. As guid
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from ISACA, its review materials or any prep provider.
+These 4 items are original, written for these notes. They are not taken from ISACA, its review materials or any prep provider.
 
 ### Set 1
 
-**Item 1.** Which document gives an internal IS audit function its authority to access records, systems and staff across the organisation?
-
-- A. The engagement letter for each audit
-- B. The audit charter approved by the audit committee
-- C. The annual audit plan
-- D. The audit program for each engagement
-
-**Item 2.** An IS auditor is assigned to audit the company's new cloud-based procurement process. What should the auditor do FIRST?
+**Item 1.** An IS auditor is assigned to audit the company's new cloud-based procurement process. What should the auditor do FIRST?
 
 - A. Gain an understanding of the process and assess its risks
 - B. Select a statistical sample of purchase orders to test
 - C. Write detailed test steps for each control the auditor expects to find
 - D. Agree a date with the auditee for the closing meeting
 
-**Item 3.** An IS auditor wants to estimate how often purchase orders were approved by someone without the required authority. Which sampling method fits BEST?
-
-- A. Variable sampling
-- B. Stratified mean-per-unit sampling
-- C. Attribute sampling
-- D. Discovery sampling
-
-**Item 4.** An IS auditor suspects that a few fictitious vendors may have been created in the payables system. The expected rate is very low, and the goal is to find at least one if any exist. Which sampling method fits BEST?
+**Item 2.** An IS auditor suspects that a few fictitious vendors may have been created in the payables system. The expected rate is very low, and the goal is to find at least one if any exist. Which sampling method fits BEST?
 
 - A. Variable sampling
 - B. Stop-or-go sampling
 - C. Judgemental sampling
 - D. Discovery sampling
 
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: B.** The audit charter, approved by the board or audit committee, establishes the function's authority, scope and responsibility, including access to records and people. *Why not A:* an engagement letter sets terms for one assignment; it does not grant standing authority. *Why not C:* the audit plan says what will be audited, not by what authority.
-
-**Item 2: A.** Planning starts with understanding the process and its risks, which then drives scope, tests and sampling. *Why not C:* writing test steps before understanding the process risks testing the wrong things. *Why not B:* choosing a sample comes after the test approach is designed.
-
-**Item 3: C.** Attribute sampling estimates the rate at which a characteristic, here unauthorised approval, occurs in a population. It is the usual choice for testing controls. *Why not A:* variable sampling estimates amounts or quantities, not rates. *Why not D:* discovery sampling only aims to find one instance; it does not estimate the rate.
-
-**Item 4: D.** Discovery sampling is designed to find at least one occurrence when the expected rate is very low, which suits suspected fraud. *Why not B:* stop-or-go sampling helps conclude a control works when few errors are expected; it is not built to find a rare instance. *Why not C:* judgemental selection cannot give a measured chance of finding a rare item.
-
-</details>
-
-### Set 2
-
-**Item 5.** An IS auditor is verifying the year-end balance of a bank account. Which evidence is MOST reliable?
+**Item 3.** An IS auditor is verifying the year-end balance of a bank account. Which evidence is MOST reliable?
 
 - A. A bank statement printed by the company's accountant
 - B. A confirmation sent by the bank directly to the auditor
 - C. A statement from the finance manager that the balance is correct
 - D. An email from the accountant forwarding the bank's balance figure
 
-**Item 6.** Inherent risk and control risk in an area are both assessed as high. Which component of audit risk can the auditor reduce directly by changing the nature, timing and extent of testing?
-
-- A. Inherent risk
-- B. Control risk
-- C. Detection risk
-- D. Business risk
-
-**Item 7.** An IS auditor wants code built into the payments application that captures every transaction over a set threshold to a file for later audit review. Which technique is this?
-
-- A. Integrated test facility
-- B. Parallel simulation
-- C. Embedded audit module
-- D. Snapshot
-
-**Item 8.** An IS auditor sets up a dummy branch in the live banking system and runs test transactions through it alongside real transactions, then compares results with expected outcomes. Which technique is this?
-
-- A. Integrated test facility
-- B. Audit hooks
-- C. Embedded audit module
-- D. Generalised audit software
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: B.** Evidence from an independent source, sent directly to the auditor, is the most reliable. *Why not A:* a document that passes through the auditee's hands could be altered. *Why not D:* a forwarded email also passes through the auditee and is a copy.
-
-**Item 6: C.** Detection risk is the risk that the auditor's own procedures miss an error, and the auditor controls it through more or better testing. *Why not B:* control risk depends on management's controls. *Why not A:* inherent risk is a property of the area itself.
-
-**Item 7: C.** An embedded audit module, sometimes called SCARF, is audit code inside the application that captures transactions meeting set criteria. *Why not A:* an integrated test facility processes the auditor's test transactions through a dummy entity. *Why not D:* a snapshot records a transaction's state at points in processing, rather than collecting every transaction over a threshold.
-
-**Item 8: A.** Creating a dummy entity in the live system and processing test transactions alongside real ones is an integrated test facility. *Why not C:* an embedded module captures real transactions; it does not process test ones. *Why not D:* generalised audit software extracts and analyses data; it does not run test transactions in the live system.
-
-</details>
-
-### Set 3
-
-**Item 9.** The IT director asks an IS auditor to help design the access controls for a new system that the same auditor is scheduled to audit next quarter. What is the BEST response?
+**Item 4.** The IT director asks an IS auditor to help design the access controls for a new system that the same auditor is scheduled to audit next quarter. What is the BEST response?
 
 - A. Agree, since the auditor's knowledge will improve the controls
 - B. Agree, but not mention it in the later audit report
 - C. Decline any contact with the project, and refuse to answer the team's questions until the audit is complete
 - D. Offer to advise on control requirements without designing the controls, and disclose the potential impairment to the audit committee
 
-**Item 10.** Management disagrees with an audit finding but cannot provide evidence that contradicts it. The auditor has rechecked the evidence and it holds. What should the auditor do?
-
-- A. Remove the finding from the report to keep a good working relationship with management
-- B. Include the finding in the report, together with management's response
-- C. Delay the report until management agrees
-- D. Repeat all of the audit tests before deciding
-
-**Item 11.** After an audit report is issued, management agrees to implement several recommendations. What is the IS auditor's role?
-
-- A. Implement the recommendations to make sure they are done correctly
-- B. Approve the budget for the corrective actions
-- C. Take no further action, since the report has been issued
-- D. Follow up to verify that the actions were taken and are effective
-
-**Item 12.** An IS auditor selects a sample of production changes and checks whether each one was approved before implementation. What kind of test is this?
-
-- A. A compliance test
-- B. A substantive test
-- C. A variable sampling test
-- D. An analytical review
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 4</summary>
 
-**Item 9: D.** Designing controls you will later audit impairs independence. The auditor can still add value by advising on what the controls must achieve, leaving the design to management and disclosing the potential impairment. *Why not A:* better controls do not cure the independence problem. *Why not C:* a complete refusal is not required; auditors can advise without making design decisions.
+**Item 1: A.** Planning starts with understanding the process and its risks, which then drives scope, tests and sampling. *Why not C:* writing test steps before understanding the process risks testing the wrong things. *Why not B:* choosing a sample comes after the test approach is designed.
 
-**Item 10: B.** When the evidence supports the finding, it stays in the report, and management's response is included so readers see both views. *Why not A:* removing a supported finding to please management breaks objectivity. *Why not D:* the evidence has already been rechecked; repeating everything adds nothing.
+**Item 2: D.** Discovery sampling is designed to find at least one occurrence when the expected rate is very low, which suits suspected fraud. *Why not B:* stop-or-go sampling helps conclude a control works when few errors are expected; it is not built to find a rare instance. *Why not C:* judgemental selection cannot give a measured chance of finding a rare item.
 
-**Item 11: D.** Management implements; the auditor follows up to verify that agreed actions happened and work. *Why not A:* implementing fixes would impair the auditor's independence for future audits. *Why not C:* follow-up is part of the audit process.
+**Item 3: B.** Evidence from an independent source, sent directly to the auditor, is the most reliable. *Why not A:* a document that passes through the auditee's hands could be altered. *Why not D:* a forwarded email also passes through the auditee and is a copy.
 
-**Item 12: A.** Checking whether a control, here change approval, operated as designed is a compliance test. *Why not B:* a substantive test checks whether data or balances are correct. *Why not C:* variable sampling estimates amounts, not whether approvals exist.
+**Item 4: D.** Designing controls you will later audit impairs independence. The auditor can still add value by advising on what the controls must achieve, leaving the design to management and disclosing the potential impairment. *Why not A:* better controls do not cure the independence problem. *Why not C:* a complete refusal is not required; auditors can advise without making design decisions.
 
 </details>
 
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | C | D | B | C | C | A | D | B | D | A |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | A | D | B | D |
 
-- **11 to 12:** strong. This thinking carries into every other domain.
-- **8 to 10:** look at whether misses were about sampling and techniques (learn the tables) or about the auditor's role (reread the method, step 1).
-- **7 or fewer:** reread Key concepts, then explain the audit risk model and the sampling table out loud from memory before redoing the items.
+- **4:** strong. This thinking carries into every other domain.
+- **3:** look at whether misses were about sampling and techniques (learn the tables) or about the auditor's role (reread the method, step 1).
+- **2 or fewer:** reread Key concepts, then explain the audit risk model and the sampling table out loud from memory before redoing the items.
 
 ## Next step
 
@@ -317,4 +233,4 @@ Auditor judgement improves fastest with volume against a clock. Try the [free CI
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [5-minute diagnostic](diagnostic.md)<!-- /nav:top -->
 
 # The CISA exam explained
 
@@ -71,8 +71,8 @@ ISACA shows a preliminary pass or fail on screen at the end, and emails the offi
 
 ## Practise the real format
 
-Start with the [15-minute diagnostic](diagnostic.md) to find your weak domains, then try a timed set such as the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa).
+Start with the [5-minute diagnostic](diagnostic.md) to find your weak domains, then try a timed set such as the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa).
 
 ---
 
-<!-- nav:bottom -->← Previous: [Home](../README.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [Home](../README.md) | Next: [5-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->

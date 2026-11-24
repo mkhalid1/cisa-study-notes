@@ -1,12 +1,12 @@
 # CISA Study Notes
 
-A free, structured study guide for the ISACA CISA exam: how the exam works and is scored, a guide to each of the five domains with the key concepts examiners test, 68 original practice items with full explanations, a 15-item diagnostic, and plans for your final week or final two days. Written for IT auditors, risk and security professionals, and financial auditors and accountants moving into IT audit, who get a page of their own. Facts about the exam come only from ISACA's own pages, each one [cited](docs/sources.md).
+A free, structured study guide for the ISACA CISA exam: how the exam works and is scored, a guide to each of the five domains with the key concepts examiners test, 20 original practice items with full explanations, a 5-item diagnostic, and plans for your final week or final two days. Written for IT auditors, risk and security professionals, and financial auditors and accountants moving into IT audit, who get a page of their own. Facts about the exam come only from ISACA's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak domains.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each domain and tells you where to start.
+1. **Find your weak domains.** Take the [5-minute diagnostic](docs/diagnostic.md). It has one item from each domain and tells you where to start.
 2. **Fix the weakest domain first.** Open its guide below, learn the key concepts and the method, then do its practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan) for your final week, or the [2-day plan](docs/study-plans.md#2-day-plan) if the exam is close.
 
@@ -37,7 +37,7 @@ Sources: [ISACA content outline](https://www.isaca.org/credentialing/cisa/cisa-e
 | 4. IS Operations and Business Resilience | 26% | Operations, change, incidents, backups, continuity and recovery | [Domain 4](docs/sections/operations-and-business-resilience.md) |
 | 5. Protection of Information Assets | 26% | Access, networks, encryption, cloud, monitoring, incidents, forensics | [Domain 5](docs/sections/protection-of-information-assets.md) |
 
-Every domain guide has the same parts: the official topics, key concepts, how the questions look, a step-by-step method, the traps that cost points, timing advice, original practice items with explanations (12 for Domains 1 to 3, 16 for the two 26% domains), and a score table.
+Every domain guide has the same parts: the official topics, key concepts, how the questions look, a step-by-step method, the traps that cost points, timing advice, original practice items with explanations (4 in each domain), and a score table.
 
 ## Contents
 
@@ -53,7 +53,7 @@ Every domain guide has the same parts: the official topics, key concepts, how th
   - [Who it is for](docs/test-overview.md#who-it-is-for)
   - [After the exam](docs/test-overview.md#after-the-exam)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [5-minute diagnostic](docs/diagnostic.md)
   - [Part A: Information Systems Auditing Process](docs/diagnostic.md#part-a-information-systems-auditing-process)
   - [Part B: Governance and Management of IT](docs/diagnostic.md#part-b-governance-and-management-of-it)
   - [Part C: Acquisition, Development and Implementation](docs/diagnostic.md#part-c-acquisition-development-and-implementation)
@@ -185,7 +185,7 @@ Every domain guide has the same parts: the official topics, key concepts, how th
 
 ## About the practice items
 
-All 68 domain practice items and 15 diagnostic items are original, written for these notes. None are taken from ISACA, its review manuals or question databases, or any prep site. They follow ISACA's published content outline and its description of how CISA items are written, so the reasoning you learn here transfers.
+All 20 domain practice items and 5 diagnostic items are original, written for these notes. None are taken from ISACA, its review manuals or question databases, or any prep site. They follow ISACA's published content outline and its description of how CISA items are written, so the reasoning you learn here transfers.
 
 ## Contributing
 
