@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md) · Next: [How CISA scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md) · Next: [How CISA scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Domain 5: Protection of Information Assets
 
@@ -242,4 +244,6 @@ Domain 5 rewards fast recall plus calm judgement. Try both in the [free CISA pra
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md) | Next: [How CISA scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md) | Next: [How CISA scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

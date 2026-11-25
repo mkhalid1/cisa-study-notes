@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The CISA exam explained](test-overview.md) · Next: [Domain 1: Information Systems Auditing Process](sections/information-systems-auditing-process.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The CISA exam explained](test-overview.md) · Next: [Domain 1: Information Systems Auditing Process](sections/information-systems-auditing-process.md)
+<!-- /nav:top -->
 
 # 5-minute diagnostic
 
@@ -104,4 +106,6 @@ Domains 4 and 5 carry 52% of the exam between them, so if they are close to your
 
 ---
 
-<!-- nav:bottom -->← Previous: [The CISA exam explained](test-overview.md) | Next: [Domain 1: Information Systems Auditing Process](sections/information-systems-auditing-process.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The CISA exam explained](test-overview.md) | Next: [Domain 1: Information Systems Auditing Process](sections/information-systems-auditing-process.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

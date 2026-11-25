@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 1: Information Systems Auditing Process](information-systems-auditing-process.md) · Next: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 1: Information Systems Auditing Process](information-systems-auditing-process.md) · Next: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md)
+<!-- /nav:top -->
 
 # Domain 2: Governance and Management of IT
 
@@ -192,4 +194,6 @@ Governance items take judgement under time pressure. Practise them with the [fre
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 1: Information Systems Auditing Process](information-systems-auditing-process.md) | Next: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 1: Information Systems Auditing Process](information-systems-auditing-process.md) | Next: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

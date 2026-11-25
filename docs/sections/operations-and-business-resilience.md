@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md) · Next: [Domain 5: Protection of Information Assets](protection-of-information-assets.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md) · Next: [Domain 5: Protection of Information Assets](protection-of-information-assets.md)
+<!-- /nav:top -->
 
 # Domain 4: Information Systems Operations and Business Resilience
 
@@ -235,4 +237,6 @@ With so much weight here, timed practice pays off. Try the [free CISA practice t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md) | Next: [Domain 5: Protection of Information Assets](protection-of-information-assets.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 3: Acquisition, Development and Implementation](acquisition-development-and-implementation.md) | Next: [Domain 5: Protection of Information Assets](protection-of-information-assets.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) · Next: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) · Next: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md)
+<!-- /nav:top -->
 
 # Domain 3: Information Systems Acquisition, Development and Implementation
 
@@ -207,4 +209,6 @@ Practise project and control items in a timed set with the [free CISA practice t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) | Next: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) | Next: [Domain 4: Operations and Business Resilience](operations-and-business-resilience.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

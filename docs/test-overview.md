@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [5-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Home](../README.md) · Next: [5-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The CISA exam explained
 
@@ -75,4 +77,6 @@ Start with the [5-minute diagnostic](diagnostic.md) to find your weak domains, t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Home](../README.md) | Next: [5-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Home](../README.md) | Next: [5-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

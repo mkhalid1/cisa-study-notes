@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md)
+<!-- /nav:top -->
 
 # Domain 1: Information Systems Auditing Process
 
@@ -233,4 +235,6 @@ Auditor judgement improves fastest with volume against a clock. Try the [free CI
 
 ---
 
-<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Governance and Management of IT](governance-and-management-of-it.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
