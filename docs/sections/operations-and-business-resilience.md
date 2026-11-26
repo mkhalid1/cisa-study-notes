@@ -215,7 +215,7 @@ These 4 items are original, written for these notes. They are not taken from ISA
 
 </details>
 
-Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
 
 ## Score yourself
 
@@ -229,7 +229,7 @@ Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.co
 
 ## Next step
 
-With so much weight here, timed practice pays off. Try the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), then return to the traps list for anything you missed.
+With so much weight here, timed practice pays off. Try the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa), then return to the traps list for anything you missed.
 
 ## Sources for this page
 

@@ -64,7 +64,7 @@ No. ISACA's candidate guide says there are no penalties for incorrect answers. A
 
 ## Where can I practise for free?
 
-The practice items in every [domain guide](../README.md#the-five-domains-at-a-glance) here are free and original. For a timed mixed set, try the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa).
+The practice items in every [domain guide](../README.md#the-five-domains-at-a-glance) here are free and original. For a timed mixed set, try the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa).
 
 ---
 

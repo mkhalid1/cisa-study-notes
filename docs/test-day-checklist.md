@@ -43,7 +43,7 @@ A short list for the day before, the morning of the exam, and afterwards. Your P
 
 ## Last practice before the real one
 
-A final timed run a few days before, not the night before, helps you trust your pace. The [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) is one option.
+A final timed run a few days before, not the night before, helps you trust your pace. The [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa) is one option.
 
 ---
 

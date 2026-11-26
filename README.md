@@ -2,7 +2,7 @@
 
 A free, structured study guide for the ISACA CISA exam: how the exam works and is scored, a guide to each of the five domains with the key concepts examiners test, 20 original practice items with full explanations, a 5-item diagnostic, and plans for your final week or final two days. Written for IT auditors, risk and security professionals, and financial auditors and accountants moving into IT audit, who get a page of their own. Facts about the exam come only from ISACA's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -180,7 +180,7 @@ Every domain guide has the same parts: the official topics, key concepts, how th
 - **Read every explanation,** including for items you got right. Each one says why the nearest wrong option loses, which is where CISA points are won.
 - **Think as the auditor.** Most wrong answers on the CISA are things management should do. The [exam overview](docs/test-overview.md#the-auditors-point-of-view) explains the point of view.
 - **Keep a miss log.** The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), trains the pace.
+- **Practise timed.** A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa), trains the pace.
 - **Clone or fork it** to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

@@ -60,7 +60,7 @@ Each rule is linked in [Sources](sources.md). Check ISACA's own pages before you
 
 ## Practise the technical domains early
 
-Do not leave Domains 4 and 5 to the end. A timed mixed set, such as the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), will show you quickly how wide the technical gap is.
+Do not leave Domains 4 and 5 to the end. A timed mixed set, such as the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa), will show you quickly how wide the technical gap is.
 
 ---
 

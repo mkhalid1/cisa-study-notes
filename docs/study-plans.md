@@ -22,7 +22,7 @@ Expect about 2 to 3 hours a day.
 | 2 | Domain 1 | The audit process shapes every answer. Redo its 4 items. Rebuild the sampling and evidence tables from memory. |
 | 3 | Domain 4 | Redo its 4 items. Write out the backup, recovery site and plan test tables. |
 | 4 | Domain 5 | Redo its 4 items. Write out who holds which key, the cloud responsibility table and the attack-to-control table. |
-| 5 | First timed run | A timed mixed set, such as the [free test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa). Read the [timing guide](timing.md) first. Review every miss. |
+| 5 | First timed run | A timed mixed set, such as the [free test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa). Read the [timing guide](timing.md) first. Review every miss. |
 | 6 | Domains 2 and 3 | Redo both item sets. Focus on governance roles, vendor controls, testing types and changeover methods. Then redo items for your weakest domain from day 5. |
 | 7 | Light review and rest | Read the traps lists for all five domains, nothing else. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
@@ -45,7 +45,7 @@ For when the exam is the day after tomorrow.
 | 1 | 5 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 60 min | Read "Key concepts" and "Traps" for your two weakest domains. |
 | 3 | 15 min | Do those two domains' items and read every explanation. |
-| 4 | 60 min | A timed mixed set, such as the [free PrepClubs test](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa). |
+| 4 | 60 min | A timed mixed set, such as the [free PrepClubs test](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa). |
 | 5 | 30 min | Review every miss with the three questions above. |
 
 ### Day 2: the day before the exam

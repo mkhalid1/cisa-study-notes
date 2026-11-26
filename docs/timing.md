@@ -48,7 +48,7 @@ This is our study guidance, not an ISACA rule. Aim for about **85 seconds per qu
 
 ## Practise against the clock
 
-Do practice sets in one sitting, timed, in blocks of at least 50 questions, so four hours of concentration feels familiar. The [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) is a timed set you can use for this.
+Do practice sets in one sitting, timed, in blocks of at least 50 questions, so four hours of concentration feels familiar. The [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa) is a timed set you can use for this.
 
 ## Sources
 

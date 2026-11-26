@@ -222,7 +222,7 @@ These 4 items are original, written for these notes. They are not taken from ISA
 
 </details>
 
-Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
+Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa) has 25 questions across all five domains, with your score broken down by domain.
 
 ## Score yourself
 
@@ -236,7 +236,7 @@ Want more? The [free timed CISA practice test on PrepClubs](https://prepclubs.co
 
 ## Next step
 
-Domain 5 rewards fast recall plus calm judgement. Try both in the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa), then return to the traps list.
+Domain 5 rewards fast recall plus calm judgement. Try both in the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa), then return to the traps list.
 
 ## Sources for this page
 

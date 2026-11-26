@@ -73,7 +73,7 @@ ISACA shows a preliminary pass or fail on screen at the end, and emails the offi
 
 ## Practise the real format
 
-Start with the [5-minute diagnostic](diagnostic.md) to find your weak domains, then try a timed set such as the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=cisa).
+Start with the [5-minute diagnostic](diagnostic.md) to find your weak domains, then try a timed set such as the [free CISA practice test on PrepClubs](https://prepclubs.com/free-practice-tests/cisa?utm_source=github&utm_medium=referral&utm_campaign=6n8cun&utm_content=cisa).
 
 ---
 
